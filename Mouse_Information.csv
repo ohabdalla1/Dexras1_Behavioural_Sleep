@@ -1,0 +1,52 @@
+Raw Data is found on the next sheet,,,,,,,,,,,,
+Six PIR sensors were installed in one behavioural cabinet,,,,,,,,,,,,
+"Six animals were tested at a time, for a total of six cohorts, with animal positions staggered according to genotype",,,,,,,,,,,,
+The table below shows information on when baseline and post-deprivation recordings were taken,,,,,,,,,,,,
+"Raw Data sheet column ""Time"" is inaccurate for two reasons:",,,,,,,,,,,,
+"(1) The PIR device was built in Greenwich Mean Time, which is four hours ahead of Eastern Standard Time",,,,,,,,,,,,
+"(2) The PIR device is not connected to a computer, and has a lag of around 100 seconds every 2 weeks",,,,,,,,,,,,
+"Column ""Ahead By"" below shows the time the device is ahead of real-time as of 9AM ""Acclimation to Cabinets"" column date",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,PIR Sensor,Animal,Sex,Birth Date,Number Tested to Date,Ahead By,Acclimation to Cabinets ,Baseline Recording Begins,Deprivation Duration,End of Post-Deprivation Recording,Lights On,Lights Off
+Cohort 1,PIR1,C57,Male,Friday March 25 2022,1,15309,Friday June 17 at 9AM,Saturday June 18 at 9AM,Saturday June 25 9AM to 3PM,Wednesday June 29 at 3PM,9AM,9PM
+Cohort 1,PIR2,Dexras1KO,Male,Monday March 21 2022,1,15309,Friday June 17 at 9AM,Saturday June 18 at 9AM,Saturday June 25 9AM to 3PM,Wednesday June 29 at 3PM,9AM,9PM
+Cohort 1,PIR3,C57,Male,Friday March 25 2022,2,15309,Friday June 17 at 9AM,Saturday June 18 at 9AM,Saturday June 25 9AM to 3PM,Wednesday June 29 at 3PM,9AM,9PM
+Cohort 1,PIR4,Dexras1KO,Male,Monday March 21 2022,2,15309,Friday June 17 at 9AM,Saturday June 18 at 9AM,Saturday June 25 9AM to 3PM,Wednesday June 29 at 3PM,9AM,9PM
+Cohort 1,PIR5,C57,Male,Friday March 25 2022,3,15309,Friday June 17 at 9AM,Saturday June 18 at 9AM,Saturday June 25 9AM to 3PM,Wednesday June 29 at 3PM,9AM,9PM
+Cohort 1,PIR6,Dexras1KO,Male,Monday March 21 2022,3,15309,Friday June 17 at 9AM,Saturday June 18 at 9AM,Saturday June 25 9AM to 3PM,Wednesday June 29 at 3PM,9AM,9PM
+,,,,,,,,,,,,
+Cohort 2,PIR1,C57,Male,Friday March 25 2022,4,15398,Thursday June 30 at 9AM,Friday July 1 at 9AM,Friday July 8 9AM to 3PM,Tuesday July 12 at 3PM,9AM,9PM
+Cohort 2,PIR2,Dexras1KO,Male,Monday March 21 2022,4,15398,Thursday June 30 at 9AM,Friday July 1 at 9AM,Friday July 8 9AM to 3PM,Tuesday July 12 at 3PM,9AM,9PM
+Cohort 2,PIR3,C57,Male,Friday March 25 2022,5,15398,Thursday June 30 at 9AM,Friday July 1 at 9AM,Friday July 8 9AM to 3PM,Tuesday July 12 at 3PM,9AM,9PM
+Cohort 2,PIR4,Dexras1KO,Male,Monday March 21 2022,5,15398,Thursday June 30 at 9AM,Friday July 1 at 9AM,Friday July 8 9AM to 3PM,Tuesday July 12 at 3PM,9AM,9PM
+Cohort 2,PIR5,C57,Male,Friday March 25 2022,6,15398,Thursday June 30 at 9AM,Friday July 1 at 9AM,Friday July 8 9AM to 3PM,Tuesday July 12 at 3PM,9AM,9PM
+Cohort 2,PIR6,Dexras1KO,Male,Monday March 21 2022,6,15398,Thursday June 30 at 9AM,Friday July 1 at 9AM,Friday July 8 9AM to 3PM,Tuesday July 12 at 3PM,9AM,9PM
+,,,,,,,,,,,,
+Cohort 3,PIR1,C57,Female,Friday March 25 2022,1,15508,Thursday July 14 at 9AM,Friday July 15 at 9AM,Friday July 22 9AM to 3PM,Tuesday July 26 at 3PM,9AM,9PM
+Cohort 3,PIR2,Dexras1KO,Female,Monday March 21 2022,1,15508,Thursday July 14 at 9AM,Friday July 15 at 9AM,Friday July 22 9AM to 3PM,Tuesday July 26 at 3PM,9AM,9PM
+Cohort 3,PIR3,C57,Female,Friday March 25 2022,2,15508,Thursday July 14 at 9AM,Friday July 15 at 9AM,Friday July 22 9AM to 3PM,Tuesday July 26 at 3PM,9AM,9PM
+Cohort 3,PIR4,Dexras1KO,Female,Monday March 21 2022,2,15508,Thursday July 14 at 9AM,Friday July 15 at 9AM,Friday July 22 9AM to 3PM,Tuesday July 26 at 3PM,9AM,9PM
+Cohort 3,PIR5,C57,Female,Friday March 25 2022,3,15508,Thursday July 14 at 9AM,Friday July 15 at 9AM,Friday July 22 9AM to 3PM,Tuesday July 26 at 3PM,9AM,9PM
+Cohort 3,PIR6,Dexras1KO,Female,Monday March 21 2022,3,15508,Thursday July 14 at 9AM,Friday July 15 at 9AM,Friday July 22 9AM to 3PM,Tuesday July 26 at 3PM,9AM,9PM
+,,,,,,,,,,,,
+Cohort 4,PIR1,C57,Female,Wednesday May 4 2022,4,15601,Wednesday July 27 at 9AM,Thursday July 28 at 9AM,Thursday August 4 9AM to 3PM,Monday August 8 at 3PM,9AM,9PM
+Cohort 4,PIR2,Dexras1KO,Female,Saturday April 30 2022,4,15601,Wednesday July 27 at 9AM,Thursday July 28 at 9AM,Thursday August 4 9AM to 3PM,Monday August 8 at 3PM,9AM,9PM
+Cohort 4,PIR3,C57,Female,Wednesday May 4 2022,5,15601,Wednesday July 27 at 9AM,Thursday July 28 at 9AM,Thursday August 4 9AM to 3PM,Monday August 8 at 3PM,9AM,9PM
+Cohort 4,PIR4,Dexras1KO,Female,Saturday April 30 2022,5,15601,Wednesday July 27 at 9AM,Thursday July 28 at 9AM,Thursday August 4 9AM to 3PM,Monday August 8 at 3PM,9AM,9PM
+Cohort 4,PIR5,C57,Female,Wednesday May 4 2022,6,15601,Wednesday July 27 at 9AM,Thursday July 28 at 9AM,Thursday August 4 9AM to 3PM,Monday August 8 at 3PM,9AM,9PM
+Cohort 4,PIR6,Dexras1KO,Female,Saturday April 30 2022,6,15601,Wednesday July 27 at 9AM,Thursday July 28 at 9AM,Thursday August 4 9AM to 3PM,Monday August 8 at 3PM,9AM,9PM
+,,,,,,,,,,,,
+Cohort 5,PIR1,C57,Male,Wednesday May 4 2022,7,15700,Tuesday August 9 at 9AM,Wednesday August 10 at 9AM,Wednesday August 17 9AM to 3PM,Sunday August 21 at 3PM,9AM,9PM
+Cohort 5,PIR2,Dexras1KO,Male,Saturday April 30 2022,7,15700,Tuesday August 9 at 9AM,Wednesday August 10 at 9AM,Wednesday August 17 9AM to 3PM,Sunday August 21 at 3PM,9AM,9PM
+Cohort 5,PIR3,C57,Male,Wednesday May 4 2022,8,15700,Tuesday August 9 at 9AM,Wednesday August 10 at 9AM,Wednesday August 17 9AM to 3PM,Sunday August 21 at 3PM,9AM,9PM
+Cohort 5,PIR4,Dexras1KO,Male,Saturday April 30 2022,8,15700,Tuesday August 9 at 9AM,Wednesday August 10 at 9AM,Wednesday August 17 9AM to 3PM,Sunday August 21 at 3PM,9AM,9PM
+Cohort 5,PIR5,C57,Male,Wednesday May 4 2022,9,15700,Tuesday August 9 at 9AM,Wednesday August 10 at 9AM,Wednesday August 17 9AM to 3PM,Sunday August 21 at 3PM,9AM,9PM
+Cohort 5,PIR6,Dexras1KO,Male,Saturday April 30 2022,9,15700,Tuesday August 9 at 9AM,Wednesday August 10 at 9AM,Wednesday August 17 9AM to 3PM,Sunday August 21 at 3PM,9AM,9PM
+,,,,,,,,,,,,
+Cohort 6,PIR1,C57,Female,Wednesday May 4 2022,7,15798,Tuesday August 23 at 9AM,Wednesday August 24 at 9AM,Wednesday August 31 9AM to 3PM,Sunday September 4 at 3PM,9AM,9PM
+Cohort 6,PIR2,Dexras1KO,Female,Saturday April 30 2022,7,15798,Tuesday August 23 at 9AM,Wednesday August 24 at 9AM,Wednesday August 31 9AM to 3PM,Sunday September 4 at 3PM,9AM,9PM
+Cohort 6,PIR3,C57,Female,Wednesday May 4 2022,8,15798,Tuesday August 23 at 9AM,Wednesday August 24 at 9AM,Wednesday August 31 9AM to 3PM,Sunday September 4 at 3PM,9AM,9PM
+Cohort 6,PIR4,Dexras1KO,Female,Saturday April 30 2022,8,15798,Tuesday August 23 at 9AM,Wednesday August 24 at 9AM,Wednesday August 31 9AM to 3PM,Sunday September 4 at 3PM,9AM,9PM
+Cohort 6,PIR5,C57,Female,Wednesday May 4 2022,9,15798,Tuesday August 23 at 9AM,Wednesday August 24 at 9AM,Wednesday August 31 9AM to 3PM,Sunday September 4 at 3PM,9AM,9PM
+Cohort 6,PIR6,Dexras1KO,Female,Saturday April 30 2022,9,15798,Tuesday August 23 at 9AM,Wednesday August 24 at 9AM,Wednesday August 31 9AM to 3PM,Sunday September 4 at 3PM,9AM,9PM
